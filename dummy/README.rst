@@ -2,7 +2,7 @@
  Dummy Module
 ==============
 
-The module do nothing
+The module does nothing.
 
 Credits
 =======
