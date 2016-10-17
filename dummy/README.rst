@@ -4,6 +4,8 @@
 
 The module does nothing.
 
+.. note:: Dummy note
+
 Credits
 =======
 
