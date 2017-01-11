@@ -3,7 +3,7 @@ Updates
 
 `1.0.2`
 -------
-- Fix spelling in manifest
+- Fix: spelling in manifest
 
 `1.0.1`
 -------
