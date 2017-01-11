@@ -3,7 +3,7 @@
     "name": """Dummy module""",
     "summary": """The module do nothing""",
     "category": "Hidden",
-    "images": [],
+    "images": ['images/1.jpg', 'images/2.jpg','images/3.jpg','images/4.jpg'],
     "version": "1.0.1",
     "application": False,
 
