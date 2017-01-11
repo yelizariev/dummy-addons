@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     "name": """Dummy module""",
-    "summary": """The module do nothing""",
+    "summary": """The module does nothing""",
     "category": "Hidden",
     "images": [],
     "version": "1.0.1",
