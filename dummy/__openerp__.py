@@ -4,7 +4,7 @@
     "summary": """The module does nothing""",
     "category": "Hidden",
     "images": [],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "application": False,
 
     "author": "IT-Projects LLC, Ivan Yelizariev",
