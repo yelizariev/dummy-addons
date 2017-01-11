@@ -1,6 +1,3 @@
-Updates
-=======
-
 `1.0.2`
 -------
 - Fix: spelling in manifest
@@ -8,7 +5,6 @@ Updates
 `1.0.1`
 -------
 - Fix spelling
-
 
 `1.0.0`
 -------
